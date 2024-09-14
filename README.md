@@ -1,6 +1,25 @@
-# 💫 About Me:
-Passionate and motivated Software Developer, with practical experience in front-end and back-end technologies, I seek opportunities to apply my skills in HTML, CSS, React and Bootstrap to contribute to innovative and efficient web development projects. I am willing to work in a team and contribute with my knowledge and creativity to achieve the objectives of the projects and the team. I am looking for an environment that encourages continuous learning and collaboration, where I can grow professionally and contribute significantly to the success of projects.<br>During my preparation to be a programmer, I have acquired a solid foundation in various areas that allow me to approach projects in a comprehensive and efficient manner.<br>Excel<br>Statistics<br>Operative investigation<br>Business Administration<br>Research Methodology<br>Operating system architecture<br>computer networks<br>and more
+# 🌟 About Me
 
+👨‍💻 **Passionate and Motivated Software Developer**  
+With practical experience in both **front-end** and **back-end** technologies, I am eager to apply my skills , to contribute to innovative and efficient software development projects. 
+
+🤝 **Team Player**  
+I thrive in collaborative environments and am excited to share my knowledge and creativity to achieve project and team objectives. looking for a workplace that fosters **continuous learning** and **collaboration**, where I can grow professionally and make significant contributions to project success.
+
+📚 **My Skills Include:**  
+- **Web Development:** HTML, CSS, React, Bootstrap  
+- **Data Analysis:** Excel, Statistics  
+- **Business Acumen:** Business Administration  
+- **Research Skills:** Research Methodology  
+- **Technical Knowledge:** Operating System Architecture, Computer Networks  
+- **And More!**
+
+✨ **My Journey**  
+Throughout my journey to becoming a programmer, I have built a solid foundation in various areas that enable me to approach projects comprehensively and efficiently.
+
+---
+
+Feel free to reach out if you want to discuss potential projects or collaborations! 💬
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerald-r-a-wayne-joly) 
