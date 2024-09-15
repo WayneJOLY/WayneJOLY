@@ -1,12 +1,12 @@
-# 🌟 About Me
+# 🌟 <span style="color:crimson">About Me</span>
 
-👨‍💻 **Passionate and Motivated Software Developer**  
+## 👨‍💻 **Passionate and Motivated Software Developer**  
 With practical experience in both **front-end** and **back-end** technologies, I am eager to apply my skills , to contribute to innovative and efficient software development projects. 
 
-🤝 **Team Player**  
+## 🤝 <span style="color:blue">**Team Player**</span>  
 I thrive in collaborative environments and am excited to share my knowledge and creativity to achieve project and team objectives. looking for a workplace that fosters **continuous learning** and **collaboration**, where I can grow professionally and make significant contributions to project success.
 
-📚 **My Skills Include:**  
+## 📚   <span style="color:red">**My Skills Include:**</span>
 - **Web Development:** HTML, CSS, React, Bootstrap  
 - **Data Analysis:** Excel, Statistics  
 - **Business Acumen:** Business Administration  
