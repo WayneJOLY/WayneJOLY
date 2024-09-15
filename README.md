@@ -1,3 +1,5 @@
+<img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" align="right" height="300">
+
 # 🌟 <span style="color:crimson">About Me</span>
 
 ## 👨‍💻 **Passionate and Motivated Software Developer**  
