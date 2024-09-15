@@ -1,5 +1,5 @@
-<img class="CSS_LIGHTBOX_SCALED_IMAGE_IMG" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"align="right" style="width: 441px; height: 331px;">
-
+<img class="CSS_LIGHTBOX_SCALED_IMAGE_IMG" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" align="right" style="width: 441px; height: 331px;">
+<img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" align="right" height="300">
 # 🌟 <span style="color:crimson">About Me</span>
 
 ## 👨‍💻 **Passionate and Motivated Software Developer**  
