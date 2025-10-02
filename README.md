@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=500&color=F78484&background=0d1117&center=true&vCenter=true&height=70&width=700&lines=👋+Hello,+I am +Gerald ;Software+Devlopper+⚙️ + 👨‍💻+;Welcome +to+ my +perfil⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=500&color=F78484&background=0d1117&center=true&vCenter=true&height=70&width=700&lines=👋+Hello,+I+am+Gerald|Software+Developer+⚙️+👨‍💻|Welcome+to+my+perfil⚡)](https://git.io/typing-svg)
+
 
 <img class="CSS_LIGHTBOX_SCALED_IMAGE_IMG" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" align="right" style="width: 441px; height: 331px;">
 
