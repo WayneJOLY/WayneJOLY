@@ -1,7 +1,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&size=48&pause=500&color=69AA65&background=0d1117&center=true&vCenter=true&width=800&lines=👋+Hello,+I+am+Gerald;Software+Developer+⚙️+👨‍💻;Welcome+to+my+Profil!+⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&size=48&pause=500&style="margin-top:40px&style="paddin-top:40px;"&"&color=69AA65&background=0d1117&center=true&vCenter=true&width=800&lines=👋+Hello,+I+am+Gerald;Software+Developer+⚙️+👨‍💻;Welcome+to+my+Profil!+⚡)](https://git.io/typing-svg)
 
 
 
