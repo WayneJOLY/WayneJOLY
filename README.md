@@ -11,14 +11,17 @@
 # 🌟 <span style="color:crimson">About Me</span>
 
 ## 👨‍💻 **Passionate and Motivated Software Developer**  
-With practical experience in both **front-end** and **back-end** technologies, I am eager to apply my skills , to contribute to innovative and efficient software development projects. 
+I’m a multilingual software developer with a Bachelor’s Degree in Programming from UTN Argentina. Fluent in French, advanced in Spanish, and proficient in English. My skills span full-stack development, system analysis, database management, and process automation, with additional knowledge in statistics, accounting, and research methodologies.
+
 
 ## 🤝 <span style="color:blue">**Team Player**</span>  
 I thrive in collaborative environments and am excited to share my knowledge and creativity to achieve project and team objectives. looking for a workplace that fosters **continuous learning** and **collaboration**, where I can grow professionally and make significant contributions to project success.
 
 ## 📚   <span style="color:red">**My Skills Include:**</span>
-- **Web Development:** HTML, CSS, React, Bootstrap  
-- **Data Analysis:** Excel, Statistics  
+-**Full Stack Devlopper:** C,C#,C++,PHP,Javascript 
+- **Datase managment:** Oracle,MySQL,SQL,PostgresSQL
+- **Frameworks:** React JS ,Node JS,Express JS, Laravel
+- **Data Analysis:** Excel, Statistics,SQL  
 - **Business Acumen:** Business Administration  
 - **Research Skills:** Research Methodology  
 - **Technical Knowledge:** Operating System Architecture, Computer Networks  
