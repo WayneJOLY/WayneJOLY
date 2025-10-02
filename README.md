@@ -18,7 +18,7 @@ I’m a multilingual software developer with a Bachelor’s Degree in Programmin
 I thrive in collaborative environments and am excited to share my knowledge and creativity to achieve project and team objectives. looking for a workplace that fosters **continuous learning** and **collaboration**, where I can grow professionally and make significant contributions to project success.
 
 ## 📚   <span style="color:red">**My Skills Include:**</span>
--**Full Stack Devlopper:** C,C#,C++,PHP,Javascript 
+- **Full Stack Devlopper:** C,C#,C++,PHP,Javascript 
 - **Datase managment:** Oracle,MySQL,SQL,PostgresSQL
 - **Frameworks:** React JS ,Node JS,Express JS, Laravel
 - **Data Analysis:** Excel, Statistics,SQL  
