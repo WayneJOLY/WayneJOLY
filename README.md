@@ -1,9 +1,9 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&size=48&pause=500&style="margin-top:40px&style="paddin-top:40px;"&"&color=69AA65&background=0d1117&center=true&vCenter=true&width=800&lines=👋+Hello,+I+am+Gerald;Software+Developer+⚙️+👨‍💻;Welcome+to+my+Profil!+⚡)](https://git.io/typing-svg)
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines==👋+Hello,+I+am+Gerald;Software+Developer+⚙️+👨‍💻;Welcome+to+my+Profil!+⚡)](https://git.io/typing-svg)
 
 
 <img class="CSS_LIGHTBOX_SCALED_IMAGE_IMG" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" align="right" style="width: 441px; height: 331px;">
